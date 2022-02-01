@@ -6,9 +6,10 @@ import numpy as np
 
 df = pd.read_excel("data.xlsx")
 print(df)
+count_row = df.shape[0]
 mean_ls=[]
 range_ls=[]
-for i in range(10):
+for i in range(count_row):
     row = df.iloc[i,1:]
     range_ls.append(row.max()-row.min())
     mean_ls.append(row.mean())
