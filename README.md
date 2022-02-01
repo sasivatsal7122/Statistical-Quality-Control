@@ -13,7 +13,7 @@ This repo contains a simple but effective tool made using python which can be us
 # This statistical Quality Control can be easily implemented in python in few lines of code and graph can be beautifully visualized and analysed using matplotlib library.
 
 ## For example lets consider a real life problem statement given like this:
-- #### A quality control inspector at the Cocoa Fizz soft drink company has taken twenty samples with four observations each of the volume of bottles filled. The data and the computed means are shown in the table, use this information to develop control limits of three standard deviations for the bottling operation.
+- #### A quality control inspector at the Cocoa Fizz soft drink company has taken ten samples with four observations each of the volume of bottles filled. The data and the computed means are shown in the table, use this information to develop control limits of three standard deviations for the bottling operation.
 ## Data can be taken taken into an excel sheet like this:
 <p align='center'><img src='preview/sample_data.png' height=800></p>
 
