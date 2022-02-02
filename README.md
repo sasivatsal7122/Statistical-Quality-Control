@@ -37,5 +37,6 @@ import numpy as np
 make sure to install them before hand.
 - Code and logic is xplained in <a href='https://github.com/sasivatsal7122/Statistical-Quality-Control/blob/main/SDS.ipynb'>jupyter note book</a> , do check that out
 - If you're interested more on this topic u can refer this <a href='https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/X-bar_and_R_Charts.pdf'>PDF</a>
+- Thank you <a href='https://github.com/SaiMowli' Mowli</a> for taking effort in xplaining my code in Jupyter notebook and educating people, hope we do more collab projects in future.
 
 # Peace ✌️. 
